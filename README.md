@@ -8,6 +8,6 @@
 ![](edit-index.gif)
 
 * **Open Pull request**
-![](.gif)
+![](pull-request.gif)
 
 
